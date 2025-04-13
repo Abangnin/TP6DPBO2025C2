@@ -14,19 +14,19 @@ Saya Muhammad Naufal Arbanin dengan NIM 2310850 mengerjakan soal Tugas Praktikum
 
 3. FlappyBird.startGame() dipanggil:
 
-  - - Reset player, pipa, dan skor
+    - Reset player, pipa, dan skor
 
-  - - Timer jalan terus untuk move() dan placePipes()
+    - Timer jalan terus untuk move() dan placePipes()
 
 4. Setiap frame (move() dipanggil 60x/detik):
 
-  - Burung jatuh karena gravitasi
+    - Burung jatuh karena gravitasi
 
-  - Pipa bergerak ke kiri
+    - Pipa bergerak ke kiri
 
-  - Cek collision dengan pipa/batas bawah
+    - Cek collision dengan pipa/batas bawah
 
-  - Cek apakah burung melewati pipa → tambah skor
+    - Cek apakah burung melewati pipa → tambah skor
 
 5. Jika tabrakan terjadi → gameOver()
 
