@@ -14,9 +14,9 @@ Saya Muhammad Naufal Arbanin dengan NIM 2310850 mengerjakan soal Tugas Praktikum
 
 3. FlappyBird.startGame() dipanggil:
 
-  - Reset player, pipa, dan skor
+  - - Reset player, pipa, dan skor
 
-  - Timer jalan terus untuk move() dan placePipes()
+  - - Timer jalan terus untuk move() dan placePipes()
 
 4. Setiap frame (move() dipanggil 60x/detik):
 
